@@ -1,0 +1,58 @@
+[
+  {
+    "q": 0.5,
+    "epsilon": 0.0,
+    "means": {
+      "uniform": 0.030329861111111123,
+      "static": 0.05286458333333335,
+      "adaptive": 0.07477892343248786,
+      "pointwise_upper": 0.07611653645833334
+    },
+    "adaptive_minus_fixed_mean": 0.021914340099154522,
+    "difference_min": 0.01171875000000002,
+    "difference_max": 0.029374999999999943,
+    "strictly_better": 24
+  },
+  {
+    "q": 0.5,
+    "epsilon": 0.6931471805599453,
+    "means": {
+      "uniform": 0.030329861111111123,
+      "static": 0.05286458333333335,
+      "adaptive": 0.07570493344907404,
+      "pointwise_upper": 0.07611653645833334
+    },
+    "adaptive_minus_fixed_mean": 0.022840350115740704,
+    "difference_min": 0.011718750000000007,
+    "difference_max": 0.030078124999999928,
+    "strictly_better": 24
+  },
+  {
+    "q": 0.8,
+    "epsilon": 0.0,
+    "means": {
+      "uniform": 0.09548444444444448,
+      "static": 0.1437155555555556,
+      "adaptive": 0.16330049015873027,
+      "pointwise_upper": 0.16849664
+    },
+    "adaptive_minus_fixed_mean": 0.019584934603174675,
+    "difference_min": 0.0034816000000002234,
+    "difference_max": 0.02786645333333329,
+    "strictly_better": 24
+  },
+  {
+    "q": 0.8,
+    "epsilon": 0.6931471805599453,
+    "means": {
+      "uniform": 0.09548444444444448,
+      "static": 0.1437155555555556,
+      "adaptive": 0.1668411733333334,
+      "pointwise_upper": 0.16849664
+    },
+    "adaptive_minus_fixed_mean": 0.0231256177777778,
+    "difference_min": 0.008396799999999982,
+    "difference_max": 0.03092480000000003,
+    "strictly_better": 24
+  }
+]

@@ -13,3 +13,11 @@ paper/*.fls
 paper/*.fdb_latexmk
 .DS_Store
 .env
+*.egg-info/
+output/pdf/*.aux
+output/pdf/*.log
+output/pdf/*.out
+output/pdf/*.bbl
+output/pdf/*.blg
+output/pdf/main.pdf
+output/releases/

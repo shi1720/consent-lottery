@@ -1,0 +1,24 @@
+{
+  "suites": {
+    "exhaustive": {
+      "records": 762,
+      "rational_dp_verified": true,
+      "max_privacy_excess": 0
+    },
+    "cycle": {
+      "records": 63,
+      "rational_dp_verified": false,
+      "max_privacy_excess": 1.942890293094024e-16
+    },
+    "benchmark": {
+      "records": 288,
+      "rational_dp_verified": false,
+      "max_privacy_excess": 5.828670879282072e-16
+    }
+  },
+  "sha256": {
+    "exhaustive": "edcc3a9cbba617fb97d76c55d06694a0f737466a7d373f16aa408dadf21d5c1a",
+    "cycle": "685e9ea1caf80de3c8efa06aa93a9e2b27032b8746e97f900c2ee6777c42492a",
+    "benchmark": "34bd30e78b3a82e9c9ffa91349e736b61c84e1b8eea88c4be66150353d90e208"
+  }
+}

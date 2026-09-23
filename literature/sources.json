@@ -1,0 +1,92 @@
+{
+  "exchange": {
+    "url": "https://jamiemorgenstern.com/papers/private-ttc.pdf",
+    "sha256": "d7a3ea57322bed53152d96997297031a9482af82befe8b540c27d7f7320ea23f",
+    "bytes": 538282,
+    "accessed": "2026-09-23"
+  },
+  "constraints": {
+    "url": "https://proceedings.mlr.press/v130/munoz21a/munoz21a.pdf",
+    "sha256": "71c3b33a8810720c96b69ccd93ad0bf9dfbfccbaec8aedb6005514d6522756ae",
+    "bytes": 925684,
+    "accessed": "2026-09-23"
+  },
+  "binary": {
+    "url": "https://arxiv.org/pdf/2310.20486",
+    "sha256": "34a9fe8ffaf713edca3b9c80302c47deb467e0daad22c520193bcfcd3c7c8815",
+    "bytes": 266952,
+    "accessed": "2026-09-23"
+  },
+  "dcop": {
+    "url": "https://ppai21.github.io/files/38-paper.pdf",
+    "sha256": "79a7e574eba4d9e003282b0cf810a5bdf45535096301a9161155c368e14d58bd",
+    "bytes": 507692,
+    "accessed": "2026-09-23"
+  },
+  "instructions": {
+    "url": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/guidelines-and-policies/instructions/",
+    "sha256": "646f4c4806a7e445fc2ce1965e38b7d0f714d173bfb2cf9ea405108feb432efe",
+    "bytes": 38307,
+    "accessed": "2026-09-23"
+  },
+  "calls": {
+    "url": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/",
+    "sha256": "7ced77477ebb72bed298d219e83c5796aaab74e2096570ac01fadde7225662d7",
+    "bytes": 33933,
+    "accessed": "2026-09-23"
+  },
+  "impossibility": {
+    "url": "https://arxiv.org/pdf/1008.0256",
+    "sha256": "817625c9d14640e161acfb52ada72ac35388146f14098b6275a60c5225f22e08",
+    "bytes": 293619,
+    "accessed": "2026-09-23"
+  },
+  "private_matching": {
+    "url": "https://arxiv.org/pdf/1311.2828",
+    "sha256": "81143d4bc12c0029ac85bcb77b108d4c77de6b77f025cc556c20c4ceedfc0cc2",
+    "bytes": 539308,
+    "accessed": "2026-09-23"
+  },
+  "privacybook": {
+    "url": "https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf",
+    "sha256": "599bb0add9a0ec7bf85a6561dbc7619f45403892a19084eb1fe622352ef91ef7",
+    "bytes": 2130940,
+    "accessed": "2026-09-23"
+  },
+  "negotiation": {
+    "url": "https://arxiv.org/pdf/2607.22750",
+    "sha256": "8dd45c0a5a1beb81cdf99766515aa6aa0337fe794820c04d01627950e55ef6dc",
+    "bytes": 1823989,
+    "accessed": "2026-09-23"
+  },
+  "behavioral": {
+    "url": "https://arxiv.org/pdf/2607.06815",
+    "sha256": "a18c94e8149d52b72635052441b39d3848c184bf1fb19703a48b9174efb84791",
+    "bytes": 850528,
+    "accessed": "2026-09-23"
+  },
+  "dcop_final": {
+    "url": "https://infoscience.epfl.ch/server/api/core/bitstreams/a161f0cc-5c85-499c-96fe-b0415246c11b/content",
+    "sha256": "d543ce21f84fa5c1db3dd0e2d9b8161e185c5ab88d4f20eccb96939ee56a373e",
+    "bytes": 1086163,
+    "accessed": "2026-09-23"
+  },
+  "workshops": {
+    "url": "https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-workshops/",
+    "sha256": "c07cf7098dea4d37d2b4ba075bccbe24d69f0a3407a0336cf6372aef1d8c0ae7",
+    "bytes": 43849,
+    "accessed": "2026-09-23"
+  },
+  "optimal": {
+    "url": "https://timroughgarden.org/papers/priv.pdf",
+    "sha256": "3ced422ba7220e04bcf7a2415df59324194881339591835342d9bab16f787914",
+    "bytes": 306631,
+    "accessed": "2026-09-23"
+  },
+  "metric": {
+    "url": "https://arxiv.org/pdf/2205.01258",
+    "sha256": "3c60d394bf80dc2f90660d5522820fafe498fd1dbb1baad9aa6114a59d22f5d1",
+    "bytes": 1112017,
+    "accessed": "2026-09-23"
+  }
+}
