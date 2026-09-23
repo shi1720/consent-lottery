@@ -1,0 +1,11 @@
+pyproject.toml
+src/consent_lottery/__init__.py
+src/consent_lottery/audit.py
+src/consent_lottery/core.py
+src/consent_lottery/optimal.py
+src/consent_lottery.egg-info/PKG-INFO
+src/consent_lottery.egg-info/SOURCES.txt
+src/consent_lottery.egg-info/dependency_links.txt
+src/consent_lottery.egg-info/requires.txt
+src/consent_lottery.egg-info/top_level.txt
+tests/test_research.py
