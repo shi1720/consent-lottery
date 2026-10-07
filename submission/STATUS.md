@@ -1,6 +1,6 @@
 # AAMAS 2027 workshop submission status
 
-**Checked 30 September 2026: NOT SUBMITTED. No acceptance is claimed.**
+**Checked 7 October 2026: NOT SUBMITTED. No acceptance is claimed.**
 
 The official [AAMAS 2027 site](https://warwick.ac.uk/fac/sci/dcs/aamas2027/) places the conference in Hanoi, Vietnam, 3–7 May 2027. The [workshop call](https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-workshops/) places workshops on 3–4 May.
 
@@ -38,3 +38,11 @@ Read all three submission records from the published repository. Rechecked the o
 The official calls overview still points to the workshop-organizer proposal call. No matching 2027 contributed workshop-paper call or submission portal was identified in the official links or focused search. Dates remain: organizer proposals 29 October, decisions 28 November, workshop announcements 5 December, CFPs and websites 9 December 2026, and recommended paper deadline 24 January 2027. The Google Form is explicitly for workshop proposals and was not used. No account was created and no paper was submitted. No workshop-specific length, anonymity or disclosure requirements can yet be applied. The weekly follow-up remains appropriate; no selected workshop deadline triggers daily checks.
 
 Operational note: the previously configured local checkout was absent at `/Users/shivamgupta/Downloads/research/consent-lottery` during this run. The public repository and authenticated GitHub access were available, so this record was updated directly on GitHub without recreating or modifying other local research directories. Recheck local availability before any future manuscript build.
+
+## Follow-up check — 7 October 2026
+
+Read the current status, prepared form fields and supplementary methods from this repository. Rechecked the official [workshop call](https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/call-for-workshops/), [calls overview](https://warwick.ac.uk/fac/sci/dcs/aamas2027/calls/) and [conference timeline](https://warwick.ac.uk/fac/sci/dcs/aamas2027/), including their workshop links, and searched for 2027 workshop calls on privacy and negotiation. No suitable contributed workshop-paper call or portal was identified. The official workshop page remains an organizer-proposal call; its [Google Form](https://forms.gle/zck21kdSVQtZUQ5U7) was not used.
+
+Verified dates are unchanged: organizer proposals 29 October, decisions 28 November, announcements 5 December, CFPs/websites 9 December 2026, and recommended paper submission 24 January 2027. No workshop-specific paper deadline, page limit or anonymity policy is available to apply. The paper remains unsubmitted; no account was created and no alternate track or arXiv submission was made. There is no selected deadline within 21 days, so the weekly schedule remains appropriate.
+
+The configured local checkout is still absent. Repository reads and this status update succeeded through GitHub; no local directories or manuscript files were changed. No new user action is required for the current monitoring step.
